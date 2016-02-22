@@ -93,6 +93,6 @@ public class Calculator {
 	 * @return	history		history of the operations		
 	 */
 	public String getHistory () {
-		return "";
+		return history;
 	}
 }
